@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+langsmith
+sqlalchemy
+psycopg2-binary
+alembic
+python-dotenv
+pydantic
+requests
+beautifulsoup4
