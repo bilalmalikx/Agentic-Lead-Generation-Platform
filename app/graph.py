@@ -1,4 +1,4 @@
-from langgraph import Graph
+from langgraph.graph import Graph
 from app.agents.planner_agent import planner_agent
 from app.agents.lead_finder_agent import lead_finder_agent
 from app.agents.scraper_agent import scraper_agent
